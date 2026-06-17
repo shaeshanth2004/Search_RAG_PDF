@@ -8,6 +8,8 @@ Ask questions. Get answers grounded in your documents. No hallucinations.
 pip install -r requirements.txt
 ```
 
+Go to https://build.nvidia.com/ and generate your own API key
+
 Create `.env`:
 ```
 api=your_key
