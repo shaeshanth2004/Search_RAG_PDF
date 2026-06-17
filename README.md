@@ -20,7 +20,7 @@ python terminal_app.py
 
 ## How It Works
 
-Upload PDF → Chunk text → Create embeddings → Search semantically → LLM answers based on retrieved content
+Edit path to PDF → Chunk text → Create embeddings → Search semantically → LLM answers based on retrieved content
 
 ## Stack
 
