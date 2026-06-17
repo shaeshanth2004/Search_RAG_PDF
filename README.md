@@ -10,12 +10,12 @@ pip install -r requirements.txt
 
 Create `.env`:
 ```
-NVIDIA_NIM_API_KEY=your_key
+api=your_key
 ```
 
 Run:
 ```bash
-python main.py
+python terminal_app.py
 ```
 
 ## How It Works
@@ -33,9 +33,8 @@ Upload PDF → Chunk text → Create embeddings → Search semantically → LLM 
 
 ✅ Works with any document  
 ✅ Interactive chat mode  
-✅ ~90% fewer hallucinations  
-✅ Save/load vector stores  
-✅ Multiple LLM models  
+✅ fewer hallucinations  
+✅ Save/load vector stores   
 
 ## Usage
 
